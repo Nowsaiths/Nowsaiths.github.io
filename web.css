@@ -1,0 +1,20 @@
+body, html, header{
+    height: 100%;
+}
+
+.header-img{
+    height: 75%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(./A_black_image.jpg.webp);
+}
+
+.icon-1{
+    font-size:50px;
+}
+
+.text-num{
+    font-size:50px;
+    font-weight: bold;
+    font-weight: 700;
+}
